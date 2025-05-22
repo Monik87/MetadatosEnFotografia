@@ -1,4 +1,0 @@
-#Versión inicial del módulo de análisis JPEG forense
-#de momento esto es un archivo de comentarios para comprobar que trabajo a nivel local
-    primer commit
-    
