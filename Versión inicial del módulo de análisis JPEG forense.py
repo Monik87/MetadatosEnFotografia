@@ -13,8 +13,8 @@ exiftool -v3 imagen.jpg
 #Descarga metadatos de imagen jpg ordenados por categorias
 exiftool -a -u -g1 + imagen.jpg 
 
-#Descarga metadatos de imagen jpg ordenados por categorias
-exiftool -a -u -g1 + imagen.jpg 
+#Descarga metadatos de imagen jpg ordenados por categorias y exporta archivo txt con información
+exiftool -a -u -g1 + imagen.jpg > metadatos.txt
 
 
 
