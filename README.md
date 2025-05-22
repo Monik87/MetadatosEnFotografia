@@ -4,3 +4,6 @@ Este proyecto tiene como objetivo descargar los metadatos de una imagen digital 
 
 ====> Instalación
 Primero debemos instalar exiftool
+    sudo apt install exxiftool
+    
+  
